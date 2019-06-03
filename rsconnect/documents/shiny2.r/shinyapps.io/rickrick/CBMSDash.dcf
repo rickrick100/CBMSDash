@@ -1,0 +1,12 @@
+name: CBMSDash
+title: CBMSDash
+username:
+account: rickrick
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 962615
+bundleId: 2126822
+url: https://rickrick.shinyapps.io/CBMSDash/
+when: 1559565622.4232
+asMultiple: FALSE
+asStatic: FALSE
